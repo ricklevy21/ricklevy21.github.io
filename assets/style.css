@@ -3,6 +3,7 @@
   font-family: 'Josefin Sans', sans-serif;
 }
 
+/* formats background of entrie page */
 body {
   background-color: #BCE7E5  ;
 }
@@ -12,6 +13,7 @@ main {
     padding-top: 25px;
 }
 
+/* formats border of self portrait on about page */
 .selfie {
   border: solid white 1px;
   border-radius: 5px;
