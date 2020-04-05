@@ -1,8 +1,27 @@
+/* Apply Google Fonts to all text on site */
+* {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+  background-color: #BCE7E5  ;
+}
 
 /* Add space between main page content and navbar*/
 main {
     padding-top: 25px;
 }
+
+.selfie {
+  border: solid white 1px;
+  border-radius: 5px;
+}
+
+/*Adjust width of cards and add margin below cards*/
+  .card {
+    width: 18rem;
+    margin-bottom: 2rem;
+  }
 
 /*additional formatting for font awesome social media buttons*/
 .fa {
